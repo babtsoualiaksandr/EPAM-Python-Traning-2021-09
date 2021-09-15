@@ -1,7 +1,7 @@
-from task_1 import tuple_into_integer
-from task_1 import unique_dictionaries
-from task_1 import sort_dictionary_by_key
-from task_1 import len_str, count_character_frequency, unique_words_sorted, get_divisors_number
+from home_work import tuple_into_integer
+from home_work import unique_dictionaries
+from home_work import sort_dictionary_by_key
+from home_work import len_str, count_character_frequency, unique_words_sorted, get_divisors_number
 import pytest
 def test_1_1():
     test_str = 'dmsbmnbsdn'
